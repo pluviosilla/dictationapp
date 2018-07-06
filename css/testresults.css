@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	background:#e3e3e3;
+	overflow: hidden;
+}
+
+#secondary1, #secondary2 {
+	background: gray;
+	overflow: hidden;
+}
+
+#mainContent {
+	background: gray;
+	overflow: hidden;
+}
+
+#header, #footer {
+	background: brown;
+	overflow: hidden;
+}
+
